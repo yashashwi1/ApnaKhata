@@ -1,0 +1,12 @@
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\bin\Debug\net6.0\ApnaKhata.DataModels.deps.json
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\bin\Debug\net6.0\ApnaKhata.DataModels.dll
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\bin\Debug\net6.0\ApnaKhata.DataModels.pdb
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ApnaKhata.DataModels.csproj.AssemblyReference.cache
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ApnaKhata.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ApnaKhata.DataModels.AssemblyInfoInputs.cache
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ApnaKhata.DataModels.AssemblyInfo.cs
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ApnaKhata.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ApnaKhata.DataModels.dll
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\refint\ApnaKhata.DataModels.dll
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ApnaKhata.DataModels.pdb
+C:\Users\srivasy\source\repos\ApnaPOC\ApnaKhata.DataModels\obj\Debug\net6.0\ref\ApnaKhata.DataModels.dll

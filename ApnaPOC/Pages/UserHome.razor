@@ -1,0 +1,46 @@
+﻿@page "/userHome/{userData}"
+
+<div class="row">
+    <div class="col-mb-4 card" style="margin:1%">
+        <h5 style="font-family:Barlow">User Profile</h5>
+        <div class="card-body" style="width:50%">
+          
+            <div style="font-family:Barlow">
+                <img src="@userData.ProfileImage" />
+                <p style="font-size:larger; font-weight:500">@userData.FirstName</p>
+                <p>You last visited: @userData.LastLogin </p>
+                <p>profile last updated: @userData.LastUpdated</p>
+            </div>
+        </div>        
+    </div>
+    <div class="col-mb-4 card " style="margin:1%">
+        <h5 style="font-family:Barlow">Expense</h5>
+        <div class="card-body" style="margin:1%">
+            <div style="font-family:Barlow;"> 
+                <p>Your maximum expense this month is : @userData.MaxExpense.Amount</p>
+                <p>Your average frequency of expenditure is: @userData.FrequencyOfExpense</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-mb-4 card" style="margin:1%">
+        <h5 style="font-family:Barlow">Alerts</h5>
+        <div class="card-body" style="margin:1%">
+            <div style="font-family:Barlow">                
+                <p style="font-size:larger; font-weight:500">Total Alerts : @userData.Alerts.Count()</p>
+                <p>Expense Alerts: @userData.ExpenseAlertCount</p>
+                <p>Daily Reminders: @userData.DailyRemindersCount</p>
+                <p>Occasional Reminders: @userData.OccasionalRemindersCount</p>
+                <p>Other Alerts: @userData.OtherRemindersCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-mb-4 card" style="margin:1%">
+        <h5 style="font-family:Barlow">Reports</h5>
+        <div class="card-body" style="margin:1%">
+            <div style="font-family:Barlow">
+                <p> Will Publish Soon!</p>
+            </div>
+        </div>
+    </div>
+</div>
+

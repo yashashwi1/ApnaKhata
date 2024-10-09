@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ApnaPOC.LoginPage"
+             Title="Login">
+    <VerticalStackLayout HorizontalOptions="Center">
+        <Image Source="apnakhata.JPG" WidthRequest="500" HeightRequest="400"/>
+        <HorizontalStackLayout VerticalOptions="CenterAndExpand" Margin="80,0,0,0">
+            <Label 
+                TextColor="Purple" FontFamily="Bold"
+                Text="New user? Register Here..."
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+            <Button BackgroundColor="Purple" Text="Register Me" Clicked="RegisterMe_Clicked"/>           
+        </HorizontalStackLayout>
+        <HorizontalStackLayout VerticalOptions="Center" Margin="80,0,0,0">
+           
+            <Entry Placeholder="enter your email id..." BackgroundColor="MediumPurple"></Entry>
+            <Button Text="Login" Clicked="Login_Clicked" BackgroundColor="Purple"/>
+        </HorizontalStackLayout>
+
+
+
+
+    </VerticalStackLayout>
+</ContentPage>
